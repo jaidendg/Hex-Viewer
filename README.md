@@ -17,6 +17,8 @@ The program opens a file, reads its contents into memory, and prints the data in
 
 Kind of like a very bad version of `xxd`.
 
+And yes, I know my approach and code is probably terrible but once again this is my first C program and this was a learning experience.
+
 ---
 
 ## Example Output
